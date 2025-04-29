@@ -199,5 +199,33 @@
     "4k": ""
   },
   "crawled_at": "2025-04-30 01:01:37"
+},
+  {
+  "id": "20238981",
+  "title": "女英雄们 Sheroes",
+  "posterUrl": "https://nnyy.in/nnimg/20238981.jpg",
+  "backdropUrl": "https://nnyy.in/nnimg/20238981.jpg",
+  "director": "乔丹·格特纳",
+  "actors": [
+    "伊莎贝拉·弗尔曼",
+    "萨莎·露丝",
+    "沃利斯·戴"
+  ],
+  "plot": "It follows four girlfriends as they set out for an adventure in paradise, they quickly called upon to employ her own unique set of skills, doing whatever it takes to come out alive and, if possible, remain friends.",
+  "year": "2023",
+  "region": "美国",
+  "genres": [
+    "动作",
+    "冒险"
+  ],
+  "rating": 8.5,
+  "type": "电影",
+  "duration": 120,
+  "playUrls": {
+    "normal": "https://v.gsuus.com/play/7axNERrd/index.m3u8",
+    "hd": "https://v.gsuus.com/play/7axNERrd/index.m3u8",
+    "4k": ""
+  },
+  "crawled_at": "2025-04-30 01:11:07"
 }
 ]
