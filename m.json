@@ -1,0 +1,61 @@
+[
+  {
+  "id": "202224288",
+  "title": "血色附身 O Corpo Aberto",
+  "posterUrl": "https://nnyy.in/nnimg/202224288.jpg",
+  "backdropUrl": "https://nnyy.in/nnimg/202224288.jpg",
+  "director": "Angeles Huerta",
+  "actors": [
+    "塔马·诺瓦斯",
+    "维多利亚·盖拉",
+    "玛丽亚·巴斯克斯",
+    "Nicolás Otero",
+    "Elena Seijo"
+  ],
+  "plot": "In the early 20th century, is in Lobosandaus, a small town in the raia seca region, on the border between Galicia and Portugal. No sooner has the teacher, played by Tamar Novas (The Mess You Leave Behind), arrived than he senses how mystery and death naturally coexist in the everyday lives of the residents of this stark, rugged place. But the teacher, from his standpoint of rat...",
+  "year": "2022",
+  "region": "西班牙, 葡萄牙",
+  "genres": [
+    "剧情",
+    "恐怖"
+  ],
+  "rating": 8.5,
+  "type": "电影",
+  "duration": 120,
+  "playUrls": {
+    "normal": "https://v.gsuus.com/play/YerP6lEb/index.m3u8",
+    "hd": "https://v.gsuus.com/play/YerP6lEb/index.m3u8",
+    "4k": ""
+  },
+  "crawled_at": "2025-04-29 15:50:34"
+},
+  {
+  "id": "20257530",
+  "title": "半斤百两 半斤百兩",
+  "posterUrl": "https://nnyy.in/nnimg/20257530.jpg",
+  "backdropUrl": "https://nnyy.in/nnimg/20257530.jpg",
+  "director": "赖健雄",
+  "actors": [
+    "林德荣",
+    "曾志伟",
+    "欧阳震华",
+    "苏志威",
+    "朱浩仁"
+  ],
+  "plot": "After successfully leading his team to crack a major fraud case, the leader of the Anti-Fraud Society, Zeng Miao Zhu, uncovers an even larger conspiracy lurking in the shadows. He then assigns elite members Lam, Arrow, Big Mouth, and Ba Jie to infiltrate the money game controlled by Tang Gang. Their mission is to become the spokespersons for the project, quickly attracting a la...",
+  "year": "2025",
+  "region": "马来西亚",
+  "genres": [
+    "喜剧"
+  ],
+  "rating": 8.5,
+  "type": "电影",
+  "duration": 120,
+  "playUrls": {
+    "normal": "https://hd.ijycnd.com/play/9aABxo3b/index.m3u8",
+    "hd": "https://hd.ijycnd.com/play/9aABxo3b/index.m3u8",
+    "4k": ""
+  },
+  "crawled_at": "2025-04-29 15:48:43"
+}
+]
