@@ -83,5 +83,35 @@
     "4k": ""
   },
   "crawled_at": "2025-04-29 17:33:39"
+},
+  {
+  "id": "20256325",
+  "title": "盲杀",
+  "posterUrl": "https://nnyy.in/nnimg/20256325.jpg",
+  "backdropUrl": "https://nnyy.in/nnimg/20256325.jpg",
+  "director": "薛文华, 晁巍",
+  "actors": [
+    "王辉",
+    "李恰",
+    "许东哲",
+    "戚彩",
+    "李博"
+  ],
+  "plot": "顾北是一位盲眼乞丐，因路遇屠镇灭门的惨剧，为报答富家千金兰秋瑶的一粥之恩，他开始探寻惨剧背后的真相，却不料遭真凶南烛郎的杀人灭口。兰秋瑶的惨死，点燃了顾北心中沉寂许久的火焰，他再次变回了修罗场上的杀神“夜不收”。凭一身侠肝义胆，为惨死的青石镇百姓和兰家三十口人讨回了公道。",
+  "year": "2025",
+  "region": "大陆",
+  "genres": [
+    "动作",
+    "武侠"
+  ],
+  "rating": 8.5,
+  "type": "电影",
+  "duration": 120,
+  "playUrls": {
+    "normal": "https://play.xluuss.com/play/xboMP7Le/index.m3u8",
+    "hd": "https://play.xluuss.com/play/xboMP7Le/index.m3u8",
+    "4k": ""
+  },
+  "crawled_at": "2025-04-29 17:41:32"
 }
 ]
