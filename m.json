@@ -57,5 +57,31 @@
     "4k": ""
   },
   "crawled_at": "2025-04-29 15:48:43"
+},
+  {
+  "id": "20255483",
+  "title": "灯塔谋杀案 Murder at the Lighthouse",
+  "posterUrl": "https://nnyy.in/nnimg/20255483.jpg",
+  "backdropUrl": "https://nnyy.in/nnimg/20255483.jpg",
+  "director": "艾瑞克·D·豪威尔",
+  "actors": [
+    "斯凯·科因",
+    "马克·贾斯汀"
+  ],
+  "plot": "为了逃离虐待她的前任，杰西租了一艘船带她穿越苏必利尔湖前往加拿大。当船沉没时，杰西被隐居的灯塔看守人救起。但当杰西恢复健康后，她意识到自己陷入了另一个陷阱。",
+  "year": "2025",
+  "region": "美国",
+  "genres": [
+    "惊悚"
+  ],
+  "rating": 8.5,
+  "type": "电影",
+  "duration": 120,
+  "playUrls": {
+    "normal": "https://hd.ijycnd.com/play/nelJPr1b/index.m3u8",
+    "hd": "https://hd.ijycnd.com/play/nelJPr1b/index.m3u8",
+    "4k": ""
+  },
+  "crawled_at": "2025-04-29 17:33:39"
 }
 ]
