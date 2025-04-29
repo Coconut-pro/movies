@@ -175,30 +175,32 @@
   "crawled_at": "2025-04-30 01:04:43"
 },
    {
-  "id": "20254079",
-  "title": "哪吒之魔童闹海",
-  "posterUrl": "https://nnyy.in/nnimg/20254079.jpg",
-  "backdropUrl": "https://nnyy.in/nnimg/20254079.jpg",
-  "director": "饺子",
-  "actors": [],
-  "plot": "天劫之后，哪吒、敖丙的灵魂虽保住了，但肉身很快会魂飞魄散。太乙真人打算用七色宝莲给二人重塑肉身。但是在重塑肉身的过程中却遇到重重困难，哪吒、敖丙的命运将走向何方？",
-  "year": "2025",
-  "region": "大陆",
+  "id": "202342100",
+  "title": "旧神 Older Gods",
+  "posterUrl": "https://nnyy.in/nnimg/202342100.jpg",
+  "backdropUrl": "https://nnyy.in/nnimg/202342100.jpg",
+  "director": "大卫·格林",
+  "actors": [
+    "Lindsay Bennett-Thompson",
+    "Ieuan Coombs",
+    "Jonathan Keeble"
+  ],
+  "plot": "克里斯的一个麻烦缠身的朋友失踪了，克里斯着手调查一个黑暗的末日邪教。。。",
+  "year": "2023",
+  "region": "英国",
   "genres": [
     "剧情",
-    "喜剧",
-    "动画",
-    "奇幻"
+    "恐怖"
   ],
   "rating": 8.5,
-  "type": "动画",
+  "type": "电影",
   "duration": 120,
   "playUrls": {
-    "normal": "https://v.gsuus.com/play/BeXZB7vb/index.m3u8",
-    "hd": "https://v.gsuus.com/play/BeXZB7vb/index.m3u8",
+    "normal": "https://v.gsuus.com/play/oeEBglka/index.m3u8",
+    "hd": "https://v.gsuus.com/play/oeEBglka/index.m3u8",
     "4k": ""
   },
-  "crawled_at": "2025-04-30 01:01:37"
+  "crawled_at": "2025-04-30 01:12:55"
 },
   {
   "id": "20238981",
@@ -227,5 +229,92 @@
     "4k": ""
   },
   "crawled_at": "2025-04-30 01:11:07"
+},
+  {
+  "id": "20237837",
+  "title": "夏日之子 Sons of Summer",
+  "posterUrl": "https://nnyy.in/nnimg/20237837.jpg",
+  "backdropUrl": "https://nnyy.in/nnimg/20237837.jpg",
+  "director": "克莱夫·弗勒里",
+  "actors": [
+    "伊莎贝尔·卢卡斯",
+    "特穆拉·莫里森",
+    "乔·戴维森",
+    "克里斯托弗·佩特"
+  ],
+  "plot": "四个冲浪儿子计划在一个海滨小镇举办一场“冲浪”活动，纪念他们三十年前被谋杀的父亲。但有些公路旅行却是令人垂涎欲滴。",
+  "year": "2023",
+  "region": "澳大利亚",
+  "genres": [
+    "冒险"
+  ],
+  "rating": 8.5,
+  "type": "电影",
+  "duration": 120,
+  "playUrls": {
+    "normal": "https://hn.bfvvs.com/play/PdRZDoqd/index.m3u8",
+    "hd": "https://hn.bfvvs.com/play/PdRZDoqd/index.m3u8",
+    "4k": ""
+  },
+  "crawled_at": "2025-04-30 01:14:10"
+},
+  {
+  "id": "20259041",
+  "title": "制暴：无限杀机 A Working Man",
+  "posterUrl": "https://nnyy.in/nnimg/20259041.jpg",
+  "backdropUrl": "https://nnyy.in/nnimg/20259041.jpg",
+  "director": "大卫·阿耶",
+  "actors": [
+    "杰森·斯坦森",
+    "大卫·哈伯",
+    "迈克尔·佩纳",
+    "杰森·弗莱明",
+    "梅拉布·尼尼泽"
+  ],
+  "plot": "影片改编自查克·迪克逊所著同名系列小说，主人公莱文·凯德（杰森·斯坦森 Jason Statham 饰）是黑色行动界的传奇人物，他放弃职业从事建筑工作，想过简单的生活，做女儿的好父亲，而当他老板的十几岁女儿珍妮突然消失后，莱文被召回要求重操旧业。在追踪过程中，莱文卷入到 一个邪恶的犯罪阴谋的中心，产生了连锁反应，将威胁到他的新生活方式。",
+  "year": "2025",
+  "region": "英国, 美国",
+  "genres": [
+    "动作",
+    "惊悚"
+  ],
+  "rating": 8.5,
+  "type": "电影",
+  "duration": 120,
+  "playUrls": {
+    "normal": "https://v.gsuus.com/play/pen2E2Ye/index.m3u8",
+    "hd": "https://v.gsuus.com/play/pen2E2Ye/index.m3u8",
+    "4k": ""
+  },
+  "crawled_at": "2025-04-30 01:18:56"
+},
+  {
+  "id": "20259091",
+  "title": "痞老板大电影 Plankton: The Movie",
+  "posterUrl": "https://nnyy.in/nnimg/20259091.jpg",
+  "backdropUrl": "https://nnyy.in/nnimg/20259091.jpg",
+  "director": "Dave Needham",
+  "actors": [
+    "劳伦斯先生",
+    "吉尔·塔利",
+    "汤姆·肯尼",
+    "比尔·法格巴克",
+    "卡罗琳·劳伦斯"
+  ],
+  "plot": "Plankton’s world is flipped upside down when his plan for world domination is thwarted. Plankton runs the Chum Bucket restaurant alongside Karen, a waterproof computer that doubles as his sidekick and wife.",
+  "year": "2025",
+  "region": "美国",
+  "genres": [
+    "动画"
+  ],
+  "rating": 8.5,
+  "type": "动画",
+  "duration": 120,
+  "playUrls": {
+    "normal": "https://v.gsuus.com/play/mep4RX2e/index.m3u8",
+    "hd": "https://v.gsuus.com/play/mep4RX2e/index.m3u8",
+    "4k": ""
+  },
+  "crawled_at": "2025-04-30 01:20:11"
 }
 ]
