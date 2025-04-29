@@ -113,5 +113,91 @@
     "4k": ""
   },
   "crawled_at": "2025-04-29 17:41:32"
+},
+  {
+  "id": "20235925",
+  "title": "沉默的女仆 Calladita",
+  "posterUrl": "https://nnyy.in/nnimg/20235925.jpg",
+  "backdropUrl": "https://nnyy.in/nnimg/20235925.jpg",
+  "director": "米格尔·福斯",
+  "actors": [
+    "Paula Grimaldo",
+    "阿里亚德娜·希尔",
+    "路易斯·贝尔梅霍",
+    "波尔·赫默索",
+    "维奥莱塔·罗德里格斯"
+  ],
+  "plot": "A young Colombian woman works as a maid in a summer mansion in Spain. While the rich family enjoy their lush holidays, she spends her days serving them, until one day she realizes that maybe she can also find ways of enjoying the summer..",
+  "year": "2023",
+  "region": "西班牙, 美国",
+  "genres": [
+    "剧情",
+    "喜剧"
+  ],
+  "rating": 8.5,
+  "type": "电影",
+  "duration": 120,
+  "playUrls": {
+    "normal": "https://v.gsuus.com/play/mepNlZ6b/index.m3u8",
+    "hd": "https://v.gsuus.com/play/mepNlZ6b/index.m3u8",
+    "4k": ""
+  },
+  "crawled_at": "2025-04-30 00:57:24"
+},
+  {
+  "id": "20254079",
+  "title": "哪吒之魔童闹海",
+  "posterUrl": "https://nnyy.in/nnimg/20254079.jpg",
+  "backdropUrl": "https://nnyy.in/nnimg/20254079.jpg",
+  "director": "饺子",
+  "actors": [],
+  "plot": "天劫之后，哪吒、敖丙的灵魂虽保住了，但肉身很快会魂飞魄散。太乙真人打算用七色宝莲给二人重塑肉身。但是在重塑肉身的过程中却遇到重重困难，哪吒、敖丙的命运将走向何方？",
+  "year": "2025",
+  "region": "大陆",
+  "genres": [
+    "剧情",
+    "喜剧",
+    "动画",
+    "奇幻"
+  ],
+  "rating": 8.5,
+  "type": "动画",
+  "duration": 120,
+  "playUrls": {
+    "normal": "https://v.gsuus.com/play/BeXZB7vb/index.m3u8",
+    "hd": "https://v.gsuus.com/play/BeXZB7vb/index.m3u8",
+    "4k": ""
+  },
+  "crawled_at": "2025-04-30 01:01:37"
+},
+  {
+  "id": "19945140",
+  "title": "肖申克的救赎 The Shawshank Redemption",
+  "posterUrl": "https://nnyy.in/nnimg/19945140.jpg",
+  "backdropUrl": "https://nnyy.in/nnimg/19945140.jpg",
+  "director": "弗兰克·德拉邦特",
+  "actors": [
+    "蒂姆·罗宾斯",
+    "摩根·弗里曼",
+    "鲍勃·冈顿",
+    "威廉姆·赛德勒",
+    "克兰西·布朗"
+  ],
+  "plot": "一场谋杀案使银行家安迪（蒂姆•罗宾斯 Tim Robbins 饰）蒙冤入狱，谋杀妻子及其情人的指控将囚禁他终生。在肖申克监狱的首次现身就让监狱“大哥”瑞德（摩根•弗里曼 Morgan Freeman 饰）对他另眼相看。瑞德帮助他搞到一把石锤和一幅女明星海报，两人渐成患难 之交。很快，安迪在监狱里大显其才，担当监狱图书管理员，并利用自己的金融知识帮助监狱官避税，引起了典狱长的注意，被招致麾下帮助典狱长洗黑钱。偶然一次，他得知一名新入狱的小偷能够作证帮他洗脱谋杀罪。燃起一丝希望的安迪找到了典狱长，希望他能帮自己翻案。阴险伪善的狱长假装答应安迪，背后却派人杀死小偷，让他唯一能合法出狱的希望泯灭。沮丧的安迪并没有绝望，在一个电闪雷鸣的风雨夜，一场暗藏几十年的越狱计划让他自我救赎，重获自由！老朋友瑞德在他的鼓舞和帮助下，也勇敢地奔向自由。\n本片获得1995年奥斯卡10项提名，以及金球奖、土星奖等多项提名。",
+  "year": "1994",
+  "region": "美国",
+  "genres": [
+    "剧情",
+    "犯罪"
+  ],
+  "rating": 8.5,
+  "type": "电影",
+  "duration": 120,
+  "playUrls": {
+    "normal": "https://v.gsuus.com/play/wdL9ADre/index.m3u8",
+    "hd": "https://v.gsuus.com/play/wdL9ADre/index.m3u8",
+    "4k": ""
+  },
+  "crawled_at": "2025-04-30 01:04:43"
 }
 ]
