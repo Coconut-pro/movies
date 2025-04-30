@@ -1,56 +1,31 @@
 [
-  {
-  "id": "83422",
-  "title": "唐探1900",
-  "alias": "唐人街探案1900,唐人街探案前传,唐探前传,Detective Chinatown 1900",
-  "posterUrl": "https://img.bfzypic.com/upload/vod/20250130-1/fb5d4f3813d49712a63bda42a748ac72.jpg",
-  "backdropUrl": "https://img.bfzypic.com/upload/vod/20250130-1/fb5d4f3813d49712a63bda42a748ac72.jpg",
-  "director": "陈思诚,戴墨",
+ {
+  "id": "91050",
+  "title": "终极武装",
+  "posterUrl": "https://img.bfzypic.com/upload/vod/20250430-1/b92001e2c952b100cc8f167acbfe3930.jpg",
+  "backdropUrl": "https://img.bfzypic.com/upload/vod/20250430-1/b92001e2c952b100cc8f167acbfe3930.jpg",
+  "director": "Neil Mackay",
   "actors": [
-    "王宝强",
-    "刘昊然",
-    "周润发",
-    "白客",
-    "张新成",
-    "岳云鹏",
-    "约翰·库萨克",
-    "太保",
-    "王雨甜",
-    "张傲月",
-    "柯国庆",
-    "萨姆·海登·史密斯",
-    "肖恩·科恩克",
-    "暗真",
-    "魏翔",
-    "尹正",
-    "安娜",
-    "奚美娟",
-    "李诚儒",
-    "小沈阳",
-    "冯文娟",
-    "桑平",
-    "曹瑞",
-    "王皓",
-    "陈创",
-    "蒋易",
-    "李宛妲"
+    "Omar Tucci",
+    "Rick Amsbury",
+    "Greg Johnston"
   ],
-  "plot": "唐探1900剧情:1900年，在美国旧金山唐人街，华裔印第安猎人阿鬼（王宝强 饰）与留美青年秦福（刘昊然 饰）因一场凶杀案偶然结识，误打误撞组成“唐人街神探”组合。开启了一场笑闹探案之旅……",
+  "plot": "终极武装剧情:A group of veteran marines steal a shipment of weapons from the military only to find a cold war era",
   "year": "2025",
-  "region": "中国大陆,中国香港",
+  "region": "加拿大",
   "genres": [
-    "喜剧片",
-    "喜剧 动作 悬疑"
+    "动作片",
+    "动作 惊悚 恐怖"
   ],
-  "rating": 2.0,
+  "rating": 6.0,
   "type": "电影",
   "duration": 0,
   "playUrls": {
-    "normal": "https://c1.ddbbffcdn.com/video/20240926qgebVz4Dindex.m3u8/index.m3u8",
-    "hd": "https://c1.ddbbffcdn.com/video/20240926qgebVz4Dindex.m3u8/index.m3u8",
-    "4k": ""
+    "normal": "https://p.bvvvvvvv7f.com/video/zhongjiwuzhuang/HD/index.m3u8",
+    "hd": "https://vip.vipuuvip.com/?url=https://p.bvvvvvvv7f.com/video/zhongjiwuzhuang/HD/index.m3u8",
+    "4k": "https://p.bvvvvvvv7f.com/video/zhongjiwuzhuang/HD/index.m3u8"
   },
-  "crawled_at": "2025-04-30 17:21:18"
+  "crawled_at": "2025-04-30 17:50:23"
 },
   {
   "id": "7759",
