@@ -1,5 +1,61 @@
 [
  {
+  "id": "83424",
+  "title": "封神第二部：战火西岐",
+  "posterUrl": "https://img.bfzypic.com/upload/vod/20250130-1/a15561d4010443510fe21e646358a686.jpg",
+  "backdropUrl": "https://img.bfzypic.com/upload/vod/20250130-1/a15561d4010443510fe21e646358a686.jpg",
+  "director": "乌尔善",
+  "actors": [
+    "黄渤",
+    "于适",
+    "那尔那茜",
+    "陈牧驰",
+    "费翔",
+    "娜然",
+    "吴兴国",
+    "韩鹏翼",
+    "此沙",
+    "武亚凡",
+    "夏雨",
+    "袁泉",
+    "冯绍峰",
+    "钱波",
+    "马文忠",
+    "巴雅尔图",
+    "僧格仁钦",
+    "艾力库",
+    "张艺泷",
+    "那音太",
+    "刘潮",
+    "吴汉坤",
+    "百力嘎",
+    "刘乐",
+    "陈坤",
+    "春晓",
+    "其勒木格",
+    "张雪菡",
+    "图门巴雅尔",
+    "李泽宇",
+    "杨大鹏"
+  ],
+  "plot": "战火西岐剧情:姜子牙、姬发带队坚守西岐，家园保卫战一触即发！邓婵玉、闻仲奉商王殷寿之命，率魔家四将等殷商大军征伐西岐，西岐一方得殷郊、雷震子、杨戬、哪吒等相助，更聚全民之力守卫家园。兵戈相对、法术交锋，两大阵营掀起",
+  "year": "2025",
+  "region": "中国大陆",
+  "genres": [
+    "动作片",
+    "动作 战争 奇幻 古装"
+  ],
+  "rating": 1.0,
+  "type": "电影",
+  "duration": 120,
+  "playUrls": {
+    "normal": "https://p.bvvvvvvv7f.com/video/fengshendierbuzhanhuoxiqi/TC/index.m3u8",
+    "hd": "https://vip.vipuuvip.com/?url=https://p.bvvvvvvv7f.com/video/fengshendierbuzhanhuoxiqi/TC/index.m3u8",
+    "4k": "https://p.bvvvvvvv7f.com/video/fengshendierbuzhanhuoxiqi/TC/index.m3u8"
+  },
+  "crawled_at": "2025-04-30 17:55:55"
+},
+ {
   "id": "83422",
   "title": "唐探1900",
   "posterUrl": "https://img.bfzypic.com/upload/vod/20250130-1/fb5d4f3813d49712a63bda42a748ac72.jpg",
@@ -42,7 +98,7 @@
     "喜剧 动作 悬疑"
   ],
   "rating": 2.0,
-  "type": "电视剧",
+  "type": "电影",
   "duration": 120,
   "playUrls": {
     "normal": "https://p.bvvvvvvv7f.com/video/tangtan1900/HD/index.m3u8",
