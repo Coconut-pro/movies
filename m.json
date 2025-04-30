@@ -1,5 +1,36 @@
 [
   {
+  "id": "7759",
+  "title": "地狱尖兵",
+  "alias": "Luchshiye v adu  地狱之最  The Best in Hell",
+  "posterUrl": "https://img.bfzypic.com/upload/vod/20230424-8/42004099d575f9b31f83c48dd8a18077.jpg",
+  "backdropUrl": "https://img.bfzypic.com/upload/vod/20230424-8/42004099d575f9b31f83c48dd8a18077.jpg",
+  "director": "安德烈·巴托夫",
+  "actors": [
+    "阿列克谢·克拉夫琴科",
+    "Georgiy Bolonev",
+    "Sergey Garusov",
+    "米哈伊尔·波格丹诺夫",
+    "彼得·哈尔琴科"
+  ],
+  "plot": "地狱尖兵剧情:在一名呼啸山庄战士的带领下，冲锋队面临着一项艰巨的任务控制市中心的高楼大厦。坦克和装甲运兵车本应让任务变得轻松，但被大型迫击炮和无人机所掩盖的激烈抵抗却削弱了攻击的优势。战斗水平不断上升，远程炮",
+  "year": "2022",
+  "region": "俄罗斯",
+  "genres": [
+    "战争片",
+    "战争"
+  ],
+  "rating": 10.0,
+  "type": "电影",
+  "duration": 120,
+  "playUrls": {
+    "normal": "",
+    "hd": "https://vip.vipuuvip.com/?url=0810/20240926qgebVz4Dindex.m3u8/index.m3u8",
+    "4k": ""
+  },
+  "crawled_at": "2025-04-30 16:41:56"
+},
+  {
   "id": "202224288",
   "title": "血色附身 O Corpo Aberto",
   "posterUrl": "https://nnyy.in/nnimg/202224288.jpg",
