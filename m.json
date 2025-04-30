@@ -315,5 +315,69 @@
     "4k": ""
   },
   "crawled_at": "2025-04-30 13:38:53"
+},
+  {
+  "id": "20241238",
+  "title": "绰号 Der Spitzname",
+  "posterUrl": "https://nnyy.in/nnimg/20241238.jpg",
+  "backdropUrl": "https://nnyy.in/nnimg/20241238.jpg",
+  "director": "宋克·沃特曼",
+  "actors": [
+    "伊赫斯·贝尔本",
+    "克里斯托夫·玛丽亚·赫布斯特",
+    "弗洛里安·大卫·菲茨",
+    "尤斯图斯·冯·多赫纳尼",
+    "亚妮娜·乌泽"
+  ],
+  "plot": "Anna and Thomas are set to marry in the Tyrolean Alps, but when the family gathers, the winter idyll unravels: old conflicts, career dilemmas, and personal crises threaten not only the wedding but the entire family dynamic.",
+  "year": "2024",
+  "region": "德国, 奥地利",
+  "genres": [
+    "喜剧",
+    "家庭"
+  ],
+  "rating": 8.5,
+  "type": "电影",
+  "duration": 120,
+  "playUrls": {
+    "normal": "https://hn.bfvvs.com/play/9avW7Kgb/index.m3u8",
+    "hd": "https://hn.bfvvs.com/play/9avW7Kgb/index.m3u8",
+    "4k": ""
+  },
+  "crawled_at": "2025-04-30 13:40:50"
+},
+  {
+  "id": "20257541",
+  "title": "神探狗狗 Dog Man",
+  "posterUrl": "https://nnyy.in/nnimg/20257541.jpg",
+  "backdropUrl": "https://nnyy.in/nnimg/20257541.jpg",
+  "director": "彼得·黑斯廷斯",
+  "actors": [
+    "彼得·黑斯廷斯",
+    "皮特·戴维森",
+    "柳波",
+    "里尔·莱尔·哈瓦瑞",
+    "艾拉·菲舍尔"
+  ],
+  "plot": "一只忠实的警犬和他的人类警官主人在工作过程中不幸受伤，一场大胆的手术融合了两者，神探狗狗诞生了！神探狗狗誓要尽职尽责——拿起、坐下和翻身，同时也要追捕他的宿敌：超级恶棍猫咪佩蒂。然而这一切在克隆小猫咪小佩蒂的到来后完全颠覆。",
+  "year": "2025",
+  "region": "美国",
+  "genres": [
+    "喜剧",
+    "动作",
+    "科幻",
+    "动画",
+    "家庭",
+    "犯罪"
+  ],
+  "rating": 8.5,
+  "type": "动画",
+  "duration": 120,
+  "playUrls": {
+    "normal": "https://play.xluuss.com/play/wdLKKQAb/index.m3u8",
+    "hd": "https://play.xluuss.com/play/wdLKKQAb/index.m3u8",
+    "4k": ""
+  },
+  "crawled_at": "2025-04-30 13:45:57"
 }
 ]
