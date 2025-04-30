@@ -379,5 +379,35 @@
     "4k": ""
   },
   "crawled_at": "2025-04-30 13:45:57"
+},
+  {
+  "id": "20252922",
+  "title": "二龙湖水怪",
+  "posterUrl": "https://nnyy.in/nnimg/20252922.jpg",
+  "backdropUrl": "https://nnyy.in/nnimg/20252922.jpg",
+  "director": "何欢",
+  "actors": [
+    "何欢",
+    "九孔",
+    "浩歌",
+    "陈昊明",
+    "李超龙"
+  ],
+  "plot": "一个由二龙湖沉寂百年的水怪传说引发的爆笑故事。",
+  "year": "2025",
+  "region": "大陆",
+  "genres": [
+    "喜剧",
+    "奇幻"
+  ],
+  "rating": 8.5,
+  "type": "电影",
+  "duration": 120,
+  "playUrls": {
+    "normal": "https://hd.ijycnd.com/play/qaQoE57d/index.m3u8",
+    "hd": "https://hd.ijycnd.com/play/qaQoE57d/index.m3u8",
+    "4k": ""
+  },
+  "crawled_at": "2025-04-30 13:53:04"
 }
 ]
