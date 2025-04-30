@@ -1,5 +1,49 @@
 [
  {
+  "id": "85078",
+  "title": "海绵宝宝：皮老板大电影",
+  "posterUrl": "https://img.bfzypic.com/upload/vod/20250227-1/bdf6dd738ee441ba980c71689134490b.jpg",
+  "backdropUrl": "https://img.bfzypic.com/upload/vod/20250227-1/bdf6dd738ee441ba980c71689134490b.jpg",
+  "director": "大卫·尼德姆",
+  "actors": [
+    "劳伦斯先生",
+    "克兰西·布朗",
+    "汤姆·肯尼",
+    "迪·布拉雷·贝克尔",
+    "比尔·法格巴克",
+    "罗里·艾伦",
+    "玛丽·乔·卡特利特",
+    "凯特·希金斯",
+    "罗德格尔·邦帕斯",
+    "卡罗琳·劳伦斯",
+    "吉尔·塔利",
+    "Austin Valli",
+    "Natalie Kailey",
+    "Toby Larsen",
+    "大卫·尼德姆",
+    "Sale Taylor",
+    "丽莎·林德",
+    "Abbi Ella Gonzales",
+    "Genesis Clarre"
+  ],
+  "plot": "痞老板（劳伦斯先生配音）想要统治世界的计划失败了，他继续打理海之霸餐厅，有防水电脑凯伦作为伙伴和妻子，蟹老板作为永不消停的对家……",
+  "year": "2025",
+  "region": "美国",
+  "genres": [
+    "动画片",
+    "喜剧"
+  ],
+  "rating": 9.0,
+  "type": "电影",
+  "duration": 120,
+  "playUrls": {
+    "normal": "https://p.bvvvvvvv7f.com/video/haimianbaobaopilaobandadianying/中字/index.m3u8",
+    "hd": "https://vip.vipuuvip.com/?url=https://p.bvvvvvvv7f.com/video/haimianbaobaopilaobandadianying/中字/index.m3u8",
+    "4k": "https://p.bvvvvvvv7f.com/video/haimianbaobaopilaobandadianying/中字/index.m3u8"
+  },
+  "crawled_at": "2025-04-30 18:03:46"
+},
+ {
   "id": "91056",
   "title": "琼和约翰",
   "posterUrl": "https://img.bfzypic.com/upload/vod/20250430-1/4e90c7ffa9a44a0f38807d68c8c377e8.jpg",
