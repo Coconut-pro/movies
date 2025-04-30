@@ -288,33 +288,32 @@
   },
   "crawled_at": "2025-04-30 01:18:56"
 },
-  {
-  "id": "20259091",
-  "title": "痞老板大电影 Plankton: The Movie",
-  "posterUrl": "https://nnyy.in/nnimg/20259091.jpg",
-  "backdropUrl": "https://nnyy.in/nnimg/20259091.jpg",
-  "director": "Dave Needham",
+ {
+  "id": "20240053",
+  "title": "猎杀超自然 Unnatural",
+  "posterUrl": "https://nnyy.in/nnimg/20240053.jpg",
+  "backdropUrl": "https://nnyy.in/nnimg/20240053.jpg",
+  "director": "Whit Whitman",
   "actors": [
-    "劳伦斯先生",
-    "吉尔·塔利",
-    "汤姆·肯尼",
-    "比尔·法格巴克",
-    "卡罗琳·劳伦斯"
+    "约翰·威尔士",
+    "Darren Lee Cupp",
+    "艾迪森·格蕾丝·伦道夫"
   ],
-  "plot": "Plankton’s world is flipped upside down when his plan for world domination is thwarted. Plankton runs the Chum Bucket restaurant alongside Karen, a waterproof computer that doubles as his sidekick and wife.",
-  "year": "2025",
+  "plot": "A gunslinger on a mission from God must track down supernatural creatures as penance for his past sins.",
+  "year": "2024",
   "region": "美国",
   "genres": [
-    "动画"
+    "恐怖",
+    "西部"
   ],
   "rating": 8.5,
-  "type": "动画",
+  "type": "电影",
   "duration": 120,
   "playUrls": {
-    "normal": "https://v.gsuus.com/play/mep4RX2e/index.m3u8",
-    "hd": "https://v.gsuus.com/play/mep4RX2e/index.m3u8",
+    "normal": "https://hn.bfvvs.com/play/wdLQw8we/index.m3u8",
+    "hd": "https://hn.bfvvs.com/play/wdLQw8we/index.m3u8",
     "4k": ""
   },
-  "crawled_at": "2025-04-30 01:20:11"
+  "crawled_at": "2025-04-30 13:38:53"
 }
 ]
